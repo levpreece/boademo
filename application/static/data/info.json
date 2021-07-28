@@ -1,0 +1,24 @@
+[
+    {
+        "client": "Acme Widgets",
+        "subs": [
+            "subaw1",
+            "subaw2"
+        ]
+    },
+    {
+        "client": "Second Co",
+        "subs": [
+            "subsc1",
+            "subsc2"
+        ]
+    },
+    {
+        "client": "DFG Corp",
+        "subs": [
+            "subdc1",
+            "subdc2"
+        ]
+    }
+]
+
